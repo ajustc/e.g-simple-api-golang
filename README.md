@@ -23,9 +23,9 @@
 
 ##  Quick Links
 
-> - [ Repository Structure](#-repository-structure)
-> - [ Getting Started](#-getting-started)
->   - [ Installation](#-installation)
+> - [ Repository Structure](#repository-structure)
+> - [ Getting Started](#getting-started)
+>   - [ Installation](#installation)
 
 ---
 
